@@ -1,0 +1,9 @@
+{
+  "main" : "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "@azure/cosmos": "^4.0.0"
+  }
+}
